@@ -12,5 +12,8 @@ import datetime
 <
 
 [slike](https://www.pexels.com/)
+
 [kod](https://gist.github.com/discover)
+
+[LICENSE.md](LICENSE.md)
 
